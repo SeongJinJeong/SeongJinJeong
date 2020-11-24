@@ -1,4 +1,4 @@
-### Hi there 👋
+### 정성진의 GitHub 입니다. 👋
 
 <!--
 **SeongJinJeong/SeongJinJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
